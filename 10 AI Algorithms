@@ -1,9 +1,9 @@
 As of my last update in September 2021, here are ten of the most commonly used AI algorithms, along with brief descriptions of each:
 
-1. **Linear Regression:**
+1. Linear Regression:
    Linear regression is a fundamental algorithm used for supervised learning tasks. It models the relationship between a dependent variable and one or more independent variables by fitting a straight line that minimizes the error between predicted and actual values. It is widely used for tasks like predicting house prices, stock market trends, and more.
 
-2. **Logistic Regression:**
+2. Logistic Regression:
    Logistic regression is a binary classification algorithm used to predict the probability of a categorical outcome. It is suitable for problems where the dependent variable has two possible classes. Despite its name, logistic regression is a classification, not regression, algorithm.
 
 3. **Decision Trees:**
